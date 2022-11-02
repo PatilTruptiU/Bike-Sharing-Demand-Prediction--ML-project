@@ -47,6 +47,7 @@ Then regression models were trained and the performance is evaluated using a tes
 linear regression, lasso regression, ridge regression, XG Boost, decision tree and random forest. After that I use SHAPE and elif5 to explain the model in a better way.
 
 #**Observations**:
+
  Observation 1: In the Model Evaluation Matrices table, Linear Regression,lassoregression,Ridge regression,XGBoost are not giving much great results.
 
  Observation 2: Decision Tree & Random forest  have performed equally good in terms of r2 score.
